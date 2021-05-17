@@ -49,7 +49,7 @@ session_start();
 							<p> <a href="logout.php">Faça o seu logout</a></p>
 							</span>
 						<?php else: ?>
-  							<p>Bem-Vindo Visitante!!!!</p>
+  							<p>Bem-Vindo Visitante!</p>
                             <p>Essas informações são somente para usuários logados</p>
 <div class="container-login100-form-btn">
 						<button type="reset" class="login100-form-btn" onclick="window.location='http://marciof4.sg-host.com/login.html'">
