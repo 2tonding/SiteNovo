@@ -1,0 +1,560 @@
+[18-Feb-2021 19:25:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on bool in /home/customer/www/marciof4.sg-host.com/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/index.php on line 16
+[18-Feb-2021 19:25:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on bool in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 10
+[18-Feb-2021 19:40:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 8
+[18-Feb-2021 19:40:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 8
+[18-Feb-2021 19:49:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 28
+[18-Feb-2021 19:50:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 22
+[18-Feb-2021 19:50:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 7
+[18-Feb-2021 19:52:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 7
+[18-Feb-2021 19:53:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 7
+[18-Feb-2021 19:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 8
+[18-Feb-2021 19:54:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 8
+[18-Feb-2021 19:54:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 8
+[18-Feb-2021 20:00:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 7
+[18-Feb-2021 20:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 7
+[18-Feb-2021 20:05:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::mysql_fetch_array() in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 8
+[18-Feb-2021 20:05:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::mysql_fetch_array() in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 8
+[18-Feb-2021 20:34:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 12
+[18-Feb-2021 20:35:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 12
+[18-Feb-2021 20:35:20 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 12
+[18-Feb-2021 20:36:30 UTC] PHP Fatal error:  Cannot use [] for reading in /home/customer/www/marciof4.sg-host.com/public_html/cadastro.php on line 18
+[19-Feb-2021 14:31:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 11
+[19-Feb-2021 14:32:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 11
+[19-Feb-2021 14:32:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 11
+[19-Feb-2021 14:34:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 11
+[19-Feb-2021 14:36:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 10
+[19-Feb-2021 14:36:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 10
+[19-Feb-2021 14:38:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 11
+[19-Feb-2021 14:38:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 11
+[19-Feb-2021 14:40:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 12
+[19-Feb-2021 14:40:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 10
+[19-Feb-2021 14:57:58 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 12
+[19-Feb-2021 15:12:30 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 14
+[19-Feb-2021 17:30:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 16
+[19-Feb-2021 17:32:33 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 16
+[19-Feb-2021 17:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::rowCount() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 16
+[19-Feb-2021 17:33:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rowCount() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 16
+[19-Feb-2021 17:34:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::rowCount() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 15
+[19-Feb-2021 17:39:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::rowCount() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 17
+[19-Feb-2021 17:40:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 16
+[19-Feb-2021 17:43:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 15
+[19-Feb-2021 17:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 15
+[19-Feb-2021 17:44:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/customer/www/marciof4.sg-host.com/public_html/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 15
+[19-Feb-2021 17:44:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 20
+[19-Feb-2021 17:45:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 13
+[19-Feb-2021 17:45:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/customer/www/marciof4.sg-host.com/public_html/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 13
+[19-Feb-2021 18:08:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/customer/www/marciof4.sg-host.com/public_html/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 13
+[19-Feb-2021 18:08:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/customer/www/marciof4.sg-host.com/public_html/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 13
+[19-Feb-2021 18:10:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/customer/www/marciof4.sg-host.com/public_html/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 13
+[19-Feb-2021 18:23:06 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 13
+[19-Feb-2021 18:24:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/customer/www/marciof4.sg-host.com/public_html/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 15
+[19-Feb-2021 18:40:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 13
+[19-Feb-2021 18:40:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 13
+[19-Feb-2021 18:44:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 17
+[19-Feb-2021 18:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 17
+[19-Feb-2021 18:58:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rowCount() in /home/customer/www/marciof4.sg-host.com/public_html/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 17
+[19-Feb-2021 19:38:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 25
+[19-Feb-2021 19:39:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 29
+[19-Feb-2021 19:50:16 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 23
+[19-Feb-2021 19:56:35 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 23
+[22-Feb-2021 21:29:57 UTC] PHP Parse error:  syntax error, unexpected 'container' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/index.php on line 44
+[24-Feb-2021 19:18:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 29
+[24-Feb-2021 19:20:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 29
+[24-Feb-2021 19:22:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 29
+[24-Feb-2021 19:23:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FETCH_ASSOC() in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 29
+[24-Feb-2021 19:24:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_assoc() in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 29
+[24-Feb-2021 19:24:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FETCH_ASSOC() in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 29
+[24-Feb-2021 19:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_assoc() in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 30
+[24-Feb-2021 19:27:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_assoc() in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 31
+[24-Feb-2021 19:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_assoc() in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 30
+[24-Feb-2021 19:28:59 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 37
+[24-Feb-2021 19:29:58 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 31
+[24-Feb-2021 19:34:08 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 43
+[24-Feb-2021 19:47:12 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 82
+[24-Feb-2021 20:32:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 41
+[24-Feb-2021 20:32:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 42
+[24-Feb-2021 20:32:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 44
+[24-Feb-2021 20:33:06 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 31
+[24-Feb-2021 20:34:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 30
+[24-Feb-2021 20:36:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 32
+[24-Feb-2021 20:36:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 34
+[24-Feb-2021 20:36:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 34
+[24-Feb-2021 20:42:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 33
+[24-Feb-2021 20:43:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 40
+[24-Feb-2021 20:49:04 UTC] PHP Parse error:  syntax error, unexpected ''erro'' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 24
+[25-Feb-2021 19:12:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 22
+[25-Feb-2021 19:13:12 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 22
+[25-Feb-2021 19:13:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 22
+[25-Feb-2021 19:34:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 26
+[02-Mar-2021 19:11:09 UTC] PHP Parse error:  syntax error, unexpected ''<br>'' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 16
+[02-Mar-2021 19:11:50 UTC] PHP Parse error:  syntax error, unexpected ''<br>'' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/marciof4.sg-host.com/public_html/atualizar.php on line 22
+[02-Mar-2021 20:30:02 UTC] PHP Parse error:  syntax error, unexpected 'painel' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/index2.php on line 8
+[02-Mar-2021 20:35:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/marciof4.sg-host.com/public_html/index3.php on line 6
+[03-Mar-2021 17:07:03 UTC] PHP Parse error:  syntax error, unexpected 'painel' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/index.php on line 43
+[03-Mar-2021 18:28:24 UTC] PHP Parse error:  syntax error, unexpected 'painel' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/index.php on line 43
+[03-Mar-2021 19:39:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/marciof4.sg-host.com/public_html/atualiza2.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/atualiza2.php on line 12
+[03-Mar-2021 19:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/marciof4.sg-host.com/public_html/atualiza2.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/atualiza2.php on line 12
+[03-Mar-2021 19:54:26 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/customer/www/marciof4.sg-host.com/public_html/atualiza2.php on line 42
+[03-Mar-2021 19:55:53 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/customer/www/marciof4.sg-host.com/public_html/atualiza2.php on line 46
+[03-Mar-2021 20:07:41 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/customer/www/marciof4.sg-host.com/public_html/atualiza2.php on line 12
+[03-Mar-2021 20:09:45 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/customer/www/marciof4.sg-host.com/public_html/atualiza2.php on line 57
+[03-Mar-2021 20:24:18 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/customer/www/marciof4.sg-host.com/public_html/atualiza2.php on line 18
+[03-Mar-2021 20:36:16 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/atualiza3.php on line 22
+[03-Mar-2021 20:37:19 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/atualiza3.php on line 22
+[03-Mar-2021 20:38:05 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/atualiza3.php on line 22
+[03-Mar-2021 20:38:29 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/atualiza3.php on line 21
+[03-Mar-2021 20:43:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function execute() in /home/customer/www/marciof4.sg-host.com/public_html/atualiza3.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/atualiza3.php on line 9
+[03-Mar-2021 20:51:34 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/customer/www/marciof4.sg-host.com/public_html/atualiza2.php on line 32
+[03-Mar-2021 20:53:34 UTC] PHP Parse error:  syntax error, unexpected '$campos' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/atualiza2.php on line 47
+[04-Mar-2021 18:40:44 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/customer/www/marciof4.sg-host.com/public_html/index4.php on line 16
+[04-Mar-2021 18:54:32 UTC] PHP Parse error:  syntax error, unexpected '"Essas informações <font col' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/marciof4.sg-host.com/public_html/index.php on line 41
+[04-Mar-2021 18:56:13 UTC] PHP Parse error:  syntax error, unexpected '"Essas informações <font col' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/marciof4.sg-host.com/public_html/index5.php on line 5
+[04-Mar-2021 19:23:21 UTC] PHP Parse error:  syntax error, unexpected 'Logado' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/index6.php on line 6
+[04-Mar-2021 19:25:50 UTC] PHP Parse error:  syntax error, unexpected 'Logado' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/index7.php on line 7
+[04-Mar-2021 19:46:19 UTC] PHP Parse error:  syntax error, unexpected 'Logado' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/index8.php on line 6
+[04-Mar-2021 19:49:40 UTC] PHP Parse error:  syntax error, unexpected 'Javascript' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/index9.php on line 6
+[04-Mar-2021 20:13:58 UTC] PHP Parse error:  syntax error, unexpected 'Inserindo' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/index10.php on line 7
+[04-Mar-2021 20:15:16 UTC] PHP Parse error:  syntax error, unexpected '"Essas informações <font col' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/marciof4.sg-host.com/public_html/index.php on line 41
+[04-Mar-2021 20:16:18 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/marciof4.sg-host.com/public_html/index11.php on line 6
+[04-Mar-2021 20:17:37 UTC] PHP Parse error:  syntax error, unexpected '"Essas informações <font col' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/marciof4.sg-host.com/public_html/index12.php on line 6
+[04-Mar-2021 20:19:29 UTC] PHP Parse error:  syntax error, unexpected '"Essas informações <font col' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/marciof4.sg-host.com/public_html/index13.php on line 6
+[04-Mar-2021 20:20:25 UTC] PHP Parse error:  syntax error, unexpected '"<a href="' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/marciof4.sg-host.com/public_html/index14.php on line 7
+[05-Mar-2021 19:12:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'databaseconnect.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 3
+[05-Mar-2021 19:24:00 UTC] PHP Fatal error:  require_once(): Failed opening required '../databaseconnect.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 3
+[05-Mar-2021 19:24:12 UTC] PHP Fatal error:  require_once(): Failed opening required '../databaseconnect.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 3
+[05-Mar-2021 19:24:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/marciof4.sg-host.com/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 12
+[05-Mar-2021 19:27:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/marciof4.sg-host.com/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 12
+[05-Mar-2021 19:27:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/marciof4.sg-host.com/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 12
+[05-Mar-2021 19:28:43 UTC] PHP Fatal error:  require_once(): Failed opening required '../../databaseconnect.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 3
+[05-Mar-2021 19:29:24 UTC] PHP Fatal error:  require_once(): Failed opening required '../databaseconnect.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/marciof4.sg-host.com/public_html/login.php on line 3
+[05-Mar-2021 19:30:03 UTC] PHP Parse error:  syntax error, unexpected '$login_sessao' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/painel-de-controle.php on line 34
+[08-Mar-2021 20:55:39 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/customer/www/marciof4.sg-host.com/public_html/painel-de-controle.php on line 46
+[08-Mar-2021 20:59:41 UTC] PHP Parse error:  syntax error, unexpected '$imagem' (T_VARIABLE), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/painel-de-controle.php on line 45
+[09-Mar-2021 19:21:23 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/customer/www/marciof4.sg-host.com/public_html/painel-de-controle.php on line 64
+[09-Mar-2021 19:28:12 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/marciof4.sg-host.com/public_html/painel20.php on line 64
+[09-Mar-2021 19:35:28 UTC] PHP Parse error:  syntax error, unexpected ''img_associado/'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/painel22.php on line 70
+[09-Mar-2021 19:36:19 UTC] PHP Parse error:  syntax error, unexpected ''../img_associado/'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/painel23.php on line 70
+[09-Mar-2021 19:37:53 UTC] PHP Parse error:  syntax error, unexpected '"' alt='Foto de exibição' />' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/painel24.php on line 70
+[09-Mar-2021 19:38:54 UTC] PHP Parse error:  syntax error, unexpected '"'/>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/painel25.php on line 70
+[09-Mar-2021 19:46:59 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/customer/www/marciof4.sg-host.com/public_html/painel26.php on line 60
+[09-Mar-2021 20:15:39 UTC] PHP Parse error:  syntax error, unexpected '$caminho4' (T_VARIABLE), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/painel27.php on line 66
+[09-Mar-2021 20:34:03 UTC] PHP Parse error:  syntax error, unexpected ''>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/painel28.php on line 66
+[09-Mar-2021 20:35:29 UTC] PHP Parse error:  syntax error, unexpected '$caminho4' (T_VARIABLE), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/painel29.php on line 66
+[09-Mar-2021 20:41:19 UTC] PHP Parse error:  syntax error, unexpected 'login100' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/painel30.php on line 72
+[09-Mar-2021 20:44:46 UTC] PHP Parse error:  syntax error, unexpected '50' (T_LNUMBER), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/painel31.php on line 67
+[10-Mar-2021 20:06:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php on line 88
+[10-Mar-2021 20:14:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php on line 91
+[10-Mar-2021 20:14:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php on line 91
+[10-Mar-2021 20:17:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php on line 91
+[10-Mar-2021 20:18:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php on line 97
+[10-Mar-2021 20:20:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php on line 91
+[11-Mar-2021 18:26:56 UTC] PHP Parse error:  syntax error, unexpected '">"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php on line 82
+[11-Mar-2021 21:00:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/mensagem2.php on line 11
+[12-Mar-2021 20:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/marciof4.sg-host.com/public_html/mensagem2.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/mensagem2.php on line 10
+[17-Mar-2021 18:50:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 150
+[18-Mar-2021 18:53:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/marciof4.sg-host.com/public_html/busca.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca.php on line 64
+[18-Mar-2021 18:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/customer/www/marciof4.sg-host.com/public_html/busca.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca.php on line 65
+[18-Mar-2021 19:07:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/marciof4.sg-host.com/public_html/busca.php on line 68
+[18-Mar-2021 19:29:09 UTC] PHP Parse error:  syntax error, unexpected '$sql2' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/busca2.php on line 86
+[18-Mar-2021 19:44:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php on line 89
+[18-Mar-2021 19:46:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php on line 89
+[18-Mar-2021 19:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php on line 89
+[18-Mar-2021 19:47:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca4.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca4.php on line 88
+[18-Mar-2021 19:48:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca5.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca5.php on line 88
+[18-Mar-2021 19:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca5.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca5.php on line 88
+[18-Mar-2021 19:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php on line 89
+[18-Mar-2021 19:50:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca6.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca6.php on line 87
+[18-Mar-2021 20:31:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca6.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca6.php on line 87
+[18-Mar-2021 20:32:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca6.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca6.php on line 87
+[18-Mar-2021 20:34:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/customer/www/marciof4.sg-host.com/public_html/busca6.php on line 85
+[18-Mar-2021 20:38:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca7.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca7.php on line 88
+[18-Mar-2021 20:38:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca7.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca7.php on line 88
+[18-Mar-2021 20:42:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca8.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca8.php on line 90
+[18-Mar-2021 20:49:13 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/customer/www/marciof4.sg-host.com/public_html/busca8.php on line 86
+[18-Mar-2021 20:51:06 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/customer/www/marciof4.sg-host.com/public_html/busca8.php on line 86
+[18-Mar-2021 20:53:46 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/customer/www/marciof4.sg-host.com/public_html/busca8.php on line 86
+[18-Mar-2021 20:54:27 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/customer/www/marciof4.sg-host.com/public_html/busca9.php on line 86
+[19-Mar-2021 18:51:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca10.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca10.php on line 97
+[19-Mar-2021 18:55:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca10.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca10.php on line 98
+[19-Mar-2021 18:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca10.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca10.php on line 98
+[19-Mar-2021 19:16:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetchRow() in /home/customer/www/marciof4.sg-host.com/public_html/busca10.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca10.php on line 98
+[19-Mar-2021 20:15:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 153
+[19-Mar-2021 20:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 153
+[19-Mar-2021 20:16:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 153
+[19-Mar-2021 20:23:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 153
+[19-Mar-2021 20:28:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on bool in /home/customer/www/marciof4.sg-host.com/public_html/painel2.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel2.php on line 152
+[19-Mar-2021 20:28:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel3.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel3.php on line 153
+[19-Mar-2021 20:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 153
+[22-Mar-2021 18:12:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 153
+[22-Mar-2021 18:13:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 153
+[22-Mar-2021 18:14:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 153
+[22-Mar-2021 18:15:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 153
+[22-Mar-2021 18:15:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 153
+[22-Mar-2021 18:15:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 153
+[22-Mar-2021 18:15:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchColumn() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 153
+[22-Mar-2021 18:20:48 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/customer/www/marciof4.sg-host.com/public_html/painel.php on line 150
+[22-Mar-2021 18:28:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/customer/www/marciof4.sg-host.com/public_html/painel4.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel4.php on line 154
+[22-Mar-2021 18:30:07 UTC] PHP Parse error:  syntax error, unexpected 'destinatario' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /home/customer/www/marciof4.sg-host.com/public_html/painel4.php on line 158
+[22-Mar-2021 18:40:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home/customer/www/marciof4.sg-host.com/public_html/painel5.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/painel5.php on line 154
+[05-Apr-2021 19:43:30 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/marciof4.sg-host.com/public_html/envia.php on line 13
+[05-Apr-2021 20:10:03 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/marciof4.sg-host.com/public_html/envia.php on line 13
+[05-Apr-2021 20:10:33 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/marciof4.sg-host.com/public_html/envia2.php on line 13
+[05-Apr-2021 20:37:36 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/customer/www/marciof4.sg-host.com/public_html/PHPMailer/PHPMailerAutoload.php on line 45
+[05-Apr-2021 20:48:09 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/envia4.php on line 34
+[05-Apr-2021 21:29:25 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/envia4.php on line 34
+[06-Apr-2021 19:12:32 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/envia4.php on line 34
+[06-Apr-2021 19:12:50 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/envia4.php on line 34
+[06-Apr-2021 19:21:28 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/envia4.php on line 34
+[06-Apr-2021 19:38:04 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/envia6.php on line 34
+[06-Apr-2021 19:39:13 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/envia6.php on line 34
+[06-Apr-2021 19:40:25 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/envia6.php on line 34
+[06-Apr-2021 19:46:15 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/envia7.php on line 34
+[06-Apr-2021 19:46:27 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/envia6.php on line 34
+[06-Apr-2021 19:47:12 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/customer/www/marciof4.sg-host.com/public_html/envia7.php on line 34
+[06-Apr-2021 19:47:39 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/Exception.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/marciof4.sg-host.com/public_html/envia5.php on line 3
+[07-Apr-2021 20:27:55 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/customer/www/marciof4.sg-host.com/public_html/enviador.php on line 51
+[07-Apr-2021 20:28:51 UTC] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: The following recipients failed: 2tonding@gmail.com: Sorry 35.206.118.15. The "MAIL FROM" email address meuemail@gmail.com /
+gmail.com you are using is not hosted on this server. Tried to use
+meuemail@gmail.com / gmail.com as mail from address. Sending mails from
+addresses not hosted on our server is not allowed. Please check the "MAIL
+FROM" settings of your mail client and make sure you set the "MAIL FROM"
+address to an email account which is hosted on the server.
+ in /home/customer/www/marciof4.sg-host.com/public_html/PHPMailer/class.phpmailer.php:1600
+Stack trace:
+#0 /home/customer/www/marciof4.sg-host.com/public_html/PHPMailer/class.phpmailer.php(1340): PHPMailer->smtpSend('Date: Wed, 7 Ap...', 'This is a multi...')
+#1 /home/customer/www/marciof4.sg-host.com/public_html/PHPMailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home/customer/www/marciof4.sg-host.com/public_html/enviador.php(57): PHPMailer->send()
+#3 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/PHPMailer/class.phpmailer.php on line 1600
+[07-Apr-2021 20:30:42 UTC] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: The following recipients failed: 2tonding@gmail.com: Sorry 35.206.118.15. The "MAIL FROM" email address 2tonding@gmail.com /
+gmail.com you are using is not hosted on this server. Tried to use
+2tonding@gmail.com / gmail.com as mail from address. Sending mails from
+addresses not hosted on our server is not allowed. Please check the "MAIL
+FROM" settings of your mail client and make sure you set the "MAIL FROM"
+address to an email account which is hosted on the server.
+ in /home/customer/www/marciof4.sg-host.com/public_html/PHPMailer/class.phpmailer.php:1600
+Stack trace:
+#0 /home/customer/www/marciof4.sg-host.com/public_html/PHPMailer/class.phpmailer.php(1340): PHPMailer->smtpSend('Date: Wed, 7 Ap...', 'This is a multi...')
+#1 /home/customer/www/marciof4.sg-host.com/public_html/PHPMailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home/customer/www/marciof4.sg-host.com/public_html/enviador.php(57): PHPMailer->send()
+#3 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/PHPMailer/class.phpmailer.php on line 1600
+[09-Apr-2021 19:53:18 UTC] PHP Parse error:  syntax error, unexpected 'value' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/busca2.php on line 75
+[09-Apr-2021 19:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/marciof4.sg-host.com/public_html/busca3.php on line 72
+[13-Apr-2021 18:36:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/marciof4.sg-host.com/public_html/cadastrofinalizado.php on line 32
+[15-Apr-2021 15:45:23 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/marciof4.sg-host.com/public_html/perfil2.php on line 110
+[15-Apr-2021 15:58:37 UTC] PHP Parse error:  syntax error, unexpected 'você' (T_STRING), expecting ')' in /home/customer/www/marciof4.sg-host.com/public_html/perfil3.php on line 103
+[15-Apr-2021 17:52:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/marciof4.sg-host.com/public_html/perfil4.php on line 100
+[15-Apr-2021 17:53:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/marciof4.sg-host.com/public_html/perfil5.php on line 100
+[03-May-2021 19:04:04 UTC] PHP Parse error:  syntax error, unexpected 'btn' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/perfil.php on line 94
+[03-May-2021 19:17:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/marciof4.sg-host.com/public_html/perfil2.php on line 90
+[03-May-2021 19:23:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/marciof4.sg-host.com/public_html/perfil3.php on line 92
+[03-May-2021 19:25:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/marciof4.sg-host.com/public_html/perfil4.php on line 8
+[04-May-2021 19:27:46 UTC] PHP Parse error:  syntax error, unexpected 'pagseguro' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/assinatura.php on line 91
+[04-May-2021 19:28:40 UTC] PHP Parse error:  syntax error, unexpected 'pagseguro' (T_STRING), expecting ',' or ';' in /home/customer/www/marciof4.sg-host.com/public_html/assinatura.php on line 91
